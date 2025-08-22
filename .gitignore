@@ -1,0 +1,8 @@
+# Ignore log files
+*.log
+
+# Ignore a temp folder
+temp/
+
+# Ignore a specific file
+config.json
